@@ -37,7 +37,7 @@ body{
 #intro-img{
     width: 100%;
 }
-#fort1{
+#fort1,#kadalpalam1{
     width: 100%;
 }
 .location-button{
@@ -50,6 +50,7 @@ body{
     display: inline-block;
     font-size: 16px;
 }
-#kadalpalam1{
+#hotel-victoria,#paris-residency{
     width: 100%;
 }
+
