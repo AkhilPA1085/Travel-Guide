@@ -1,0 +1,21 @@
+.header{
+    width: 100%;
+    height: 98px;
+    background: #3b5998;
+}
+body{
+    margin: 0%;
+}
+.logo{
+    width: 50%;
+    padding-top: 9px;
+}
+.search{
+    width: 50%;
+}
+.logo-head{
+    text-decoration: none;
+    color: #ffff;
+    font-size: 34px;
+    margin-left: 35px;
+}
