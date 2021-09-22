@@ -9,13 +9,19 @@ body{
 .logo{
     width: 50%;
     padding-top: 9px;
+    float: left;
 }
 .search{
     width: 50%;
+    float: left;
 }
 .logo-head{
     text-decoration: none;
     color: #ffff;
     font-size: 34px;
     margin-left: 35px;
+}
+.menu{
+    margin-top: 34px;
+    margin-left: 200px;
 }
